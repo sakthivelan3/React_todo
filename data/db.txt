@@ -1,0 +1,1 @@
+db.json is fetched with the help of api call
