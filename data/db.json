@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Node JS"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "MongoDB"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "Redux"
+    }
+  ]
+}
